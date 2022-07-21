@@ -1,0 +1,13 @@
+STATUS: [20:07:2022]
+   Leaving in next 10 minutes.
+
+  -R&D user register and login Authentication[Laravel]-[done]
+  -Create register form using bootstrap popup model on laravel demo project,[Done] 
+  -Create Login form using bootstrap popup model,[Done]
+  -Create Customer model and CustomerController file,[Done]
+  -Create Customer view page and setup url,[Done]
+  -Create CRUD operation from customer data,[Done]
+  -User Login two factor login authentication,[Active]
+
+ 
+  
